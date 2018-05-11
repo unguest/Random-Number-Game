@@ -4,5 +4,5 @@
  ## Functionnalities
  
  - [x] Time To Find counter
- - [ ] Scoreboard stored in a file and printable
+ - [x] Scoreboard stored in a file and printable at the screen
  - [ ] Copy your score to the clipboard
