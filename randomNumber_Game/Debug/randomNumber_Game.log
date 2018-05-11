@@ -1,3 +1,4 @@
 ﻿  randomNumber_Game.cpp
-d:\projets\cpp\randomnumber_game\randomnumber_game\randomnumber_game.cpp(29): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+d:\projets\cpp\randomnumber_game\randomnumber_game\randomnumber_game.cpp(32): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+d:\projets\cpp\randomnumber_game\randomnumber_game\randomnumber_game.cpp(110): warning C4018: '<' : incompatibilité signed/unsigned
   randomNumber_Game.vcxproj -> D:\Projets\CPP\randomNumber_Game\Debug\randomNumber_Game.exe
