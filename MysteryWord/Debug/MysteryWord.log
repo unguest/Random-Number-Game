@@ -1,4 +1,0 @@
-﻿  MysteryWord.cpp
-d:\projets\cpp\mysteryword\mysteryword\mysteryword.cpp(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
-d:\projets\cpp\mysteryword\mysteryword\mysteryword.cpp(18): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-  MysteryWord.vcxproj -> D:\Projets\CPP\MysteryWord\Debug\MysteryWord.exe
